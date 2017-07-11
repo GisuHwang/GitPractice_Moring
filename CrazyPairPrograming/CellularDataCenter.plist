@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectiontitle</key>
+		<string></string>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>cellType</key>
+				<string>switchCell</string>
+				<key>rowSubtitle</key>
+				<string></string>
+				<key>rowTitle</key>
+				<string>셀룰러 데이터</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>detailCell</string>
+				<key>rowTitle</key>
+				<string>셀룰러 데이터 옵션</string>
+				<key>rowSubtitle</key>
+				<string>로밍 끔</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectiontitle</key>
+		<string></string>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>cellType</key>
+				<string>basicCell</string>
+				<key>rowTitle</key>
+				<string>개인용 핫스팟</string>
+				<key>rowSubtitle</key>
+				<string>켬</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectiontitle</key>
+		<string>통화시간</string>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>cellType</key>
+				<string>detailCell</string>
+				<key>rowTitle</key>
+				<string>현재 사용량</string>
+				<key>rowSubtitle</key>
+				<string>1일 10시간</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>detailCell</string>
+				<key>rowTitle</key>
+				<string>누적 사용량</string>
+				<key>rowSubtitle</key>
+				<string>12일 10시간</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectiontitle</key>
+		<string>셀룰러 데이터 사용량</string>
+		<key>data</key>
+		<array>
+			<dict>
+				<key>cellType</key>
+				<string>detailCell</string>
+				<key>rowTitle</key>
+				<string>현재 사용량</string>
+				<key>rowSubtitle</key>
+				<string>70.5GB</string>
+			</dict>
+			<dict>
+				<key>cellType</key>
+				<string>detailCell</string>
+				<key>rowTitle</key>
+				<string>현재 로밍 사용량</string>
+				<key>rowSubtitle</key>
+				<string>0 바이트</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
